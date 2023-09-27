@@ -1,0 +1,10 @@
+.immagine {
+    width: 500px;
+}
+
+img {
+    width: 100%;
+}
+.box {
+    flex-direction: column;
+}
